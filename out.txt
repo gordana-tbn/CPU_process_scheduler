@@ -1,0 +1,1 @@
+{"broj procesa": 5, "procesi:": {"p1": [0, 10, 3], "p2": [0, 1, 1], "p3": [0, 2, 3], "p4": [0, 1, 4], "p5": [0, 5, 2]}, "algoritam": "shortest job first,round robin"}
